@@ -7,7 +7,7 @@
     "cors": "~2.4.1",
     "express": "~4.7.1",
     "response-time": "~2.0.0",
-    "citybikes-js": "~0.1.1"
+    "citybikes-js": "~0.1.2"
   },
   "scripts": {
     "start": "node server.js"
