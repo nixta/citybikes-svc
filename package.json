@@ -1,0 +1,19 @@
+{
+  "name": "citybike-svc",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A NodeJS Service for exposing Citybik.es data as GeoJSON",
+  "dependencies": {
+    "cors": "~2.4.1",
+    "express": "~4.7.1",
+    "response-time": "~2.0.0",
+    "citybikes-js": "~0.1.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "repository": "http://github.com/nixta/citybikes-svc.git",
+  "author": "Nick Furness",
+  "license": "Apache"
+}
